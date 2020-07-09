@@ -9,6 +9,6 @@ Projects I have worked on include ...
 
 Projects I am currently working on include ... 
 
-- 🇸🇰 [RSlovakia](https://github.com/tomasokal/RSlovakia), a package for pulling and providing shapefiles for geospatial analysis of Slovakia.
+- 🌍 [RSlovakia](https://github.com/tomasokal/RSlovakia), a package for pulling and providing shapefiles for geospatial analysis of Slovakia.
 - 🏈 [Nfldraftr](https://github.com/tomasokal/nfldraftr), a package to pull historical NFL Draft data.
 
