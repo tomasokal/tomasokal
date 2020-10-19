@@ -1,14 +1,9 @@
 ### Hi there 👋
 
-I am a Research Analyst at NORC at the University of Chicago where I work on survey research dealing with public opinion and voting. On my Github, you will find some personal projects and tools I am learning with. 
+My name is Tom and I am a Research Analyst at NORC at the University of Chicago. I have a background in Political Science and Methodology and studied at the University of Georgia. I currently work on survey research doing statistical analysis and machine learning among other things. I have also gotten a number of grants and awards to develop R packages for visualizing and analyzing survey data for my work. These packages were used for the [COVID Impact Survey](https://www.covid-impact.org/) and produced the [cross-tabulations](https://www.covid-impact.org/cross-tabulations) and [topline findings] (https://static1.squarespace.com/static/5e8769b34812765cff8111f7/t/5ee11863221ddf08b0284c20/1591810150212/covid_w3_topline_national_web.pdf).
 
-Projects I have worked on include ... 
+Outside of work, I have actively produced and contributed to open source software. Projects I have worked on include ...
 
 - 🎨 [Rtist](https://cran.r-project.org/web/packages/rtist/index.html), a color palette package available on CRAN. 
+- 🏈 [DFS Lineup Optimizer](https://tomasokal.shinyapps.io/dfsoptimizer/), an R-Shiny app for optimization of DFS lineups that allows for player inclusions and exclusions.
 - 📊 [Phackr](https://github.com/tomasokal/phackr), a package to check significance of covariates across survey responses.
-
-Projects I am currently working on include ... 
-
-- 🌍 [RSlovakia](https://github.com/tomasokal/RSlovakia), a package for pulling and providing shapefiles for geospatial analysis of Slovakia.
-- 🏈 [Nfldraftr](https://github.com/tomasokal/nfldraftr), a package to pull historical NFL Draft data.
-
