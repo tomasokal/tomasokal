@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-My name is Tom and I am an R Shiny Developer. I have a background in Political Science and Methodology and studied at the University of Georgia and research at NORC at the University of Chicago. I have gotten a number of grants and awards to develop R packages for visualizing and analyzing survey data for my work. These packages were used for the [COVID Impact Survey](https://www.covid-impact.org/) and produced the [cross-tabulations](https://www.covid-impact.org/cross-tabulations) and [topline findings](https://static1.squarespace.com/static/5e8769b34812765cff8111f7/t/5ee11863221ddf08b0284c20/1591810150212/covid_w3_topline_national_web.pdf).
+My name is Tom and I am a web developer and data visualization specialist with a background in political science and research. I currently work at Oliver Wyman Acturial Consulting, where I am a manager in charge of building web applications and R Shiny tools for business intelligence. I am passionate about open source and enjoy using my skills to create meaningful, creative, and impactful projects. In my previous role as a researcher at NORC at the University of Chicago, I gained valuable experience in data analysis and data engineering. 
 
-Outside of work, I have actively produced and contributed to open source software. Projects I have worked on include ...
+Some of my work includes...
 
-- 🎨 [Rtist](https://cran.r-project.org/web/packages/rtist/index.html), a color palette package available on CRAN. 
-- 🏈 [DFS Lineup Optimizer](https://tomasokal.shinyapps.io/dfsoptimizer/), an R-Shiny app for optimization of DFS lineups that allows for player inclusions and exclusions.
-- 📊 [Phackr](https://github.com/tomasokal/phackr), a package to check significance of covariates across survey responses.
+- R Packages used for the [COVID Impact Survey's](https://www.covid-impact.org/) [cross-tabulations](https://www.covid-impact.org/cross-tabulations) and [topline findings](https://static1.squarespace.com/static/5e8769b34812765cff8111f7/t/5ee11863221ddf08b0284c20/1591810150212/covid_w3_topline_national_web.pdf).
+- An [R-Shiny application](https://tomasokal.shinyapps.io/dfsoptimizer/) where you can optimize DFS lineups using live and up to date web scraped data.
+- An R Package, [Rtist](https://cran.r-project.org/web/packages/rtist/index.html), available on CRAN.
