@@ -1,4 +1,4 @@
-### Hello! / Dobrý deň!
+### 🇬🇧 Hello! / 🇸🇰 Dobrý deň!
 
 My name is Tom and I am a web developer and data visualization specialist with a background in political science and research. I currently work at Oliver Wyman Acturial Consulting, where I am a manager in charge of building web applications and R Shiny tools for business intelligence. I am passionate about open source and enjoy using my skills to create meaningful, creative, and impactful projects. In my previous role as a researcher at NORC at the University of Chicago, I gained valuable experience in data analysis and data engineering. 
 
